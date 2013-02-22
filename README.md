@@ -1,0 +1,1 @@
+A static HTML "sketch" of a photo gallery. Created for "Building backbone.js apps with Backlift Part 2: Models and Collections."
